@@ -1,0 +1,51 @@
+clear
+pwd
+cd dotfiles
+stow .
+cd .config
+ls
+cd ../.config
+ls
+yazi
+clear
+cd ..
+cd .dotfiles
+ls
+cd trailskr/
+ls
+cd .dotfiles
+ls
+ls -a
+stow .
+stow . --adopt
+clear
+cd .dotfiles/.config
+ls
+ckear
+clear
+cd .config
+ls
+cd hypr
+cat hyprland.conf
+hx hyprland.conf
+clear
+cd ..
+ls
+cd ..
+ls
+yazi
+git status
+clear
+ls
+cd ../.config
+ls
+clear
+ls
+yazi
+hx .stow-local-ignore
+ls
+pwd
+cd .dotfiles
+stow .
+yazi
+stow .
